@@ -6,7 +6,7 @@ These archives contain an installer for interactive offline tomb visit app made 
 
 ### Mirrors
 - Archive.org
-  * soon...
+  * [Whole .7z - 2.16GB](https://archive.org/download/amjoshaghani_interactivetombs_installer/installer.7z)
 - Arvan Cloud
   * [Whole .7z - 2.16GB](https://bit.ly/3As2ZZT) - bit.ly
   
