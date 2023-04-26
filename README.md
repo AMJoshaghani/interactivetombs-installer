@@ -5,6 +5,8 @@ These archives contain an installer for interactive offline tomb visit app made 
 - **Tutankhamun's Tomb** (18th Dynasty Pharoah) [🔗<sub>2</sub>](https://en.wikipedia.org/wiki/Tutankhamun)
 
 ### Mirrors
+- Archive.org
+  * soon...
 - Arvan Cloud
   * [Whole .7z - 2.16GB](https://bit.ly/3As2ZZT) - bit.ly
   
