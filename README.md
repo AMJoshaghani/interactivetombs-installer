@@ -1,2 +1,24 @@
-# interactivetombs-installer
-An installer for compressed version of nefertaritomb.com 's virtual visit.
+## Interactive Tomb - Installer
+These archives contain an installer for interactive offline tomb visit app made by [NefertariTomb.com](http://nefertaritomb.com)
+
+- **Nefertari's Tomb** (Ramesses The Great's most beloved wife) [🔗<sub>1</sub>](https://en.wikipedia.org/wiki/Nefertari)
+- **Tutankhamun's Tomb** (18th Dynasty Pharoah) [🔗<sub>2</sub>](https://en.wikipedia.org/wiki/Tutankhamun)
+
+1. [Part1 - 800MB](https://s28.picofile.com/file/8462589068/Interactive_Tombs_part1.rar.html)
+2. [Part2 - 800MB](https://s29.picofile.com/file/8462590118/Interactive_Tombs_part2.rar.html)
+3. [Part3 - 632MB](https://s28.picofile.com/file/8462591492/Interactive_Tombs_part3.rar.html)
+
+&emsp;&emsp;sum &nbsp;= 2.3 GB
+
+### Installation
+
+After downloading and extracting rar archives, there'd be an `install.bat` file
+which will do the installation progress just by clicking on it.
+
+### Screenshots
+![menu](https://s8.uupload.ir/files/screenshot_2022-11-03_114258_k92.jpg)
+![tour](https://s8.uupload.ir/files/screenshot_2022-11-03_114918_16tq.jpg)
+
+---
+
+contact me at [amjoshaghani.ir](https://amjoshaghani.ir)
