@@ -4,11 +4,19 @@ These archives contain an installer for interactive offline tomb visit app made 
 - **Nefertari's Tomb** (Ramesses The Great's most beloved wife) [🔗<sub>1</sub>](https://en.wikipedia.org/wiki/Nefertari)
 - **Tutankhamun's Tomb** (18th Dynasty Pharoah) [🔗<sub>2</sub>](https://en.wikipedia.org/wiki/Tutankhamun)
 
-1. [Part1 - 800MB](https://s28.picofile.com/file/8462589068/Interactive_Tombs_part1.rar.html)
-2. [Part2 - 800MB](https://s29.picofile.com/file/8462590118/Interactive_Tombs_part2.rar.html)
-3. [Part3 - 632MB](https://s28.picofile.com/file/8462591492/Interactive_Tombs_part3.rar.html)
+### Mirrors
+- Arvan Cloud
+  * [Whole .7z - 2.16GB](https://bit.ly/3As2ZZT) - bit.ly
+  
+  -OR-
+  
+  * [Whole .7z - 2.16GB](https://b2n.ir/h22449) - b2n.ir
+- Picofile
+  1. [Part1 - 800MB](https://s28.picofile.com/file/8462589068/Interactive_Tombs_part1.rar.html)
+  2. [Part2 - 800MB](https://s29.picofile.com/file/8462590118/Interactive_Tombs_part2.rar.html)
+  3. [Part3 - 632MB](https://s28.picofile.com/file/8462591492/Interactive_Tombs_part3.rar.html)
 
-&emsp;&emsp;sum &nbsp;= 2.3 GB
+&emsp;&emsp;&emsp;&emsp;sum &nbsp;= 2.23GB
 
 ### Installation
 
